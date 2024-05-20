@@ -1,7 +1,6 @@
 
 
 
-# Runtime data
 pids
 *.seed
 *.pid.lock
