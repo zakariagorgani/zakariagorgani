@@ -2,7 +2,7 @@
 
 
 pids
-*.seed
+*.
 *.pid.lock
 
 
