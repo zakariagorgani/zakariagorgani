@@ -2,7 +2,7 @@
 
 
 pids
-*.
+
 *.pid.lock
 
 
