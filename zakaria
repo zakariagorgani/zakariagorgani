@@ -3,7 +3,7 @@
 
 pids
 
-*.pid.lock
+pid.lock
 
 
 #  directory used by tools like istanbul
