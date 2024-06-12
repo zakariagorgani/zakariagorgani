@@ -6,7 +6,7 @@ pids
 pid.lock
 
 
-  directory  by tools like istanbul
+    by tools like istanbul
 coverage
 *.lcov
 
