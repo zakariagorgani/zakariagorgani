@@ -16,7 +16,7 @@ coverage
 #   storage 
 grunt
 
-# Bower dependency directory (https://bower.io/)
+# Bower  directory (https://bower.io/)
 bower_components
 
  node-waf 
