@@ -38,7 +38,7 @@ tsbuildinfo
 #  npm cache directory
 .npm
 
-# Optional  cache
+ Optional  cache
 .eslintcache
 
 # Microbundle cache
