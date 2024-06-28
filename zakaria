@@ -13,7 +13,7 @@
  nyc test coverage
 .nyc_output
 
-#   storage 
+   storage 
 grunt
 
 # Bower  directory (https://bower.io/)
