@@ -10,7 +10,7 @@
 
 *.lcov
 
- nyc test coverage
+  test coverage
 .nyc_output
 
    storage 
