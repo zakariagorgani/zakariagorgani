@@ -20,7 +20,7 @@ grunt
 bower_components
 
  node-waf 
-.lock-wscript
+.lockwscript
 
  Compiled binary  (https://.org/api/addons.html)
 build/Release
