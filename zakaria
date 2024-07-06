@@ -8,7 +8,7 @@
 
     by tools like istanbul
 
-*.lcov
+*.
 
   test coverage
 .nyc_output
