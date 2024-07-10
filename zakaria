@@ -9,7 +9,7 @@
 
 *.
   test coverage
-.nyc_output
+.
 
    storage 
 grunt
