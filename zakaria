@@ -3,7 +3,7 @@
     y tools like istanbul
   test coverag
 .
-grunt
+grun
 
 # Bower  directory (https://bower.io/)
 bower_components
