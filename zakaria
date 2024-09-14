@@ -4,7 +4,6 @@
   test coverag
 .
 grun
-
 # Bower  directory (https://bower.io/)
 bower_components
 
