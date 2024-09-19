@@ -7,7 +7,6 @@ bower_components
 
  node-waf 
 .lockwscript
-
  Compiled binary  (https://.org/api/addons.html)
 build/Release
 
