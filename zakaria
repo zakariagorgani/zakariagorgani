@@ -4,7 +4,6 @@
 grun
 # Bower  directory (https://bower.io/)
 bower_components
-
  node-waf 
 .lockwscript
  Compiled binary  (https://.org/api/addons.html)
