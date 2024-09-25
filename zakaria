@@ -3,7 +3,7 @@
   test covera
 grun
 # Bower  directory (https://bower.io/)
-bower_components
+bowercomponents
  node-waf 
 .lockwscript
  Compiled binary  (https://.org/api/addons.html)
