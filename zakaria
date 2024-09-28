@@ -6,7 +6,7 @@ grun
 bowercomponents
  node-waf
 .lockwscript
- Compiled binary  (https://.org/api/addons.html)
+ Compiled binary  (https://.org/api/addons.tml)
 build/Release
 # Dependency directories
 node_modules/
