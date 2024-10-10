@@ -14,7 +14,6 @@ jspm_packages/
 typings/
 #  cache
 tsbuildinfo
-
 #  npm cache directory
 .npm
 
